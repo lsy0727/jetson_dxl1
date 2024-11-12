@@ -22,3 +22,8 @@ https://github.com/lsy0727/jetson_dxl1/blob/a9ec8372e777c62f764b1326ea73b1d9181b
 
 ![image](https://github.com/user-attachments/assets/bd9ac33c-a278-4957-94a5-fbe2f1ef92a7)
 
+## 문제점
+
+1. ctrl+c 를 입력시 바로 종료되지 않는다.
+
+2. 입력한 속도 명령값이 현재 모터의 속도와 차이가 클 때 소음과 진동이 발생한다.
