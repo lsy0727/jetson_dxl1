@@ -14,7 +14,7 @@ line 25 : 입력받은 속도값을 모터에 전송해 모터의 속도를 설�
 
 line 26 : 모터를 원활하게 제어하기 위해 약간의 대기시간 설정
 
-https://github.com/lsy0727/jetson_dxl1/blob/237a518bee2a9f96200b4e5aba8abec08d8f13d0/main.cpp#L33C4-L33C23
+https://github.com/lsy0727/jetson_dxl1/blob/a9ec8372e777c62f764b1326ea73b1d9181b2dfb/main.cpp#L33
 
 프로그램 종료시 반드시 close
 
