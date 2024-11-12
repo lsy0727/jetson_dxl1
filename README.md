@@ -20,4 +20,5 @@ https://github.com/lsy0727/jetson_dxl1/blob/a9ec8372e777c62f764b1326ea73b1d9181b
 
 ## 실행결과
 
+![image](https://github.com/user-attachments/assets/bd9ac33c-a278-4957-94a5-fbe2f1ef92a7)
 
